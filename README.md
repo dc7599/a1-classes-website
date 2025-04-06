@@ -27,3 +27,12 @@ This is the official website of A1 Classes, designed to:
 - **Version Control**: Git & GitHub
 
 ## Folder Structure
+## Getting Started (For Developers)
+
+If you want to run the project locally:
+
+```bash
+git clone https://github.com/dc7599/a1-classes-website.git
+cd a1-classes-website
+npm install
+npm run dev
